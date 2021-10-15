@@ -1,0 +1,161 @@
+
+.title_container{
+    height: 90vh;
+    background: url("../../asset/asset8.jpg") center center no-repeat;
+    background-size:Cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: rgb(109, 19, 75);
+    opacity:0.9
+  }
+
+ .body_container{
+  height: 90vh;
+  background: url("../../asset/asset9.jpg") center center no-repeat;
+  background-size:cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  color: rgb(204, 31, 117);
+  opacity:0.8
+ }
+
+ .submit{
+   background-color: mediumvioletred;
+  }
+
+  .admin_container{
+    height:110vh;
+    background: url("../../asset/asset10.jpg") center center no-repeat;
+    background-size:cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: rgb(41, 165, 138);
+    opacity:0.8
+  }
+
+  .submit2{
+    background-color: rgb(84, 158, 127);
+   }
+   .span{
+     text-align: center;
+     text-decoration-line: underline;
+     font-size: larger;
+     font-style: italic;
+   }
+   .button1 {
+    border: 0;
+    padding: 60px 30px;
+    margin: 0 0px;
+    border-radius: 2px;
+    font-weight:bolder;
+    letter-spacing: 1px;
+    font-size: 25px;
+    cursor: pointer;
+   
+    color: #fff;
+    font-weight: 100;
+  }
+  
+  .admin_dashboard{
+  height: 190vh;
+  border-width: 20ch;
+  background: url("../../asset/asset12.jpg") center center no-repeat;
+  background-size:200%;
+  background-color: rgb(167, 110, 90);
+  background: linear-gradient(to right, #e67e22, #e74c3c);
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  color: rgb(204, 31, 117);
+  opacity:0.8
+  }
+  .wrapper1{
+    background: linear-gradient(to right, #e67e22, #e74c3c);
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .user_container{
+    height:110vh;
+    background: url("../../asset/asset13.gif") center center no-repeat;
+    background-size:cover;
+    display: grid;
+    align-items:flex-start;
+    justify-content:flex-start;
+    color: rgb(100, 129, 211);
+    opacity:0.8
+  }
+
+  .submit3{
+    background-color: rgb(100, 129, 211) ;
+  }
+   .card_container{
+     width :13rem;
+     height:fit-content
+   }
+
+   .weather_container{
+    height:145vh;
+    background: url("../../asset/asset1.gif") center center no-repeat;
+    background-size:cover;
+    display:grid;
+    align-items:center;
+    justify-content:center;
+    color: rgb(165, 53, 156);
+    opacity:0.7
+  }
+
+  .submit_button{
+    background-color: rgb(165, 53, 156);
+  }
+.dashboard_weather{
+    height:90vh;
+    background: url("../../asset/asset14.gif") center center no-repeat;
+    background-size:cover;
+    display:grid;
+    align-items:flex-start;
+    justify-content:flex-start;
+    color: rgb(145, 34, 135);
+    opacity:0.7
+
+}
+
+.dashboard-admin{
+  height:240vh;
+    background: url("../../asset/asset16.gif") center center repeat;
+    background-size:100%;
+    display:grid;
+    align-items:center;
+    justify-content:center;
+    color: rgb(145, 34, 135);
+    opacity:0.7
+}
+  
+.button2{
+  border: 0;
+  padding: 40px 15px;
+  margin: 0 0px;
+  border-radius: 2px;
+  font-weight:bolder;
+  letter-spacing: 1px;
+  font-size: 25px;
+  cursor: pointer;
+  align-items: center;
+  justify-content:center;
+  color: #fff;
+  font-weight: 100;
+}
+.PageNotFound{
+    height:90vh;
+    background: url("../../asset/asset17.jpg") center center no-repeat;
+    background-size:100%;
+    display:grid;
+    align-items:center;
+    justify-content:center;
+    color: rgb(233, 229, 232);
+    opacity:0.7
+}
